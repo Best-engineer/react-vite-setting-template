@@ -13,7 +13,7 @@
 ## 🚀 사용 방법
 
 ```bash
-git clone https://github.com/your-username/my-react-starter.git
-cd my-react-starter
+git clone https://github.com/Best-engineer/react-vite-setting-template.git
+cd react-vite-setting-template
 npm install
 npm run dev
